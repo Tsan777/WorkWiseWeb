@@ -1,9 +1,6 @@
-0.None,0,Sách HDONTHI Anh
-0.None,0,Sách Passage Anh THPT
-0.None,0,code web app
-Toán,1,MINDMAP TOÁN THPT
+Toán,1,MINDMAP TOÁN 12
 Toán,0,Làm Hết ứng dụng MOON
-Toán,0,MINDMAP TOÁN 12
+Toán,0,MINDMAP TOÁN THPT
 Toán,0,Sách EMPIRE logic và PTSL
 Toán,0,Sách Logic Moon
 Toán,0,Sách Logic và PTSL HCM
@@ -15,7 +12,7 @@ Anh,0,Sách Anh EMPIRE
 Anh,0,Sách Anh HSA
 Anh,0,Sách Anh dgnl TRANG Anh
 Anh,0,Sách HDONTHI ANH
-Anh,0,Sách Reading Anh THPT
+Anh,0,Sách Reading Anh THPT Passage
 Anh,0,Sách THPT 2015
 Anh,0,example_task
 App,0,REACT NATIVE Udemy+docs
