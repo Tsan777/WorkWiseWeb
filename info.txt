@@ -1,5 +1,5 @@
 name: Trúc Cơ Cảnh
-money: 44$
+money: 0$
 level: 5.0
 value: 0.5099999999999998
 bar: [0, 0, 0, 0, 0, 3, 0]
