@@ -1,3 +1,4 @@
+0.None,0,Lượng giác, ĐSố, giải tích, HìnhH, TKê, Tổ Hợp, XSuất
 Toán,1,MINDMAP TOÁN 12
 Toán,0,Làm Hết ứng dụng MOON
 Toán,0,MINDMAP TOÁN THPT
