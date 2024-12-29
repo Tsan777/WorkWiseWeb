@@ -1,6 +1,6 @@
 name: Trúc Cơ Cảnh
-money: 43$
-level: 5
-value: 0.0
-bar: [0, 0, 0, 0, 3, 6, 1]
-pie: [7, 1, 0, 2]
+money: 30$
+level: 5.0
+value: 0.23000000000000043
+bar: [0, 0, 3, 6, 1, 10, 2]
+pie: [14, 6, 0, 2]
