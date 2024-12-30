@@ -532,15 +532,14 @@ function updateCharts(info) {
     new Chart(pieCtx, {
         type: 'pie',
         data: {
-            labels: ['Work', 'Study', 'Exercise', 'Leisure'],
+            labels: ['Queue', 'Todo', 'Task', 'Goal'] ,
             datasets: [{
                 label: 'Daily Activities',
                 data: info.pie,
-                backgroundColor: [
-                    'rgba(255, 99, 132, 0.6)',
-                    'rgba(54, 162, 235, 0.6)',
-                    'rgba(255, 206, 86, 0.6)',
-                    'rgba(75, 192, 192, 0.6)'
+                backgroundColor: [   'rgba(255, 165, 0, 0.6)', // Queue - màu cam
+        'rgba(255, 0, 0, 0.6)',   // Todo - màu đỏ
+        'rgba(255, 255, 0, 0.6)', // Task - màu vàng
+        'rgba(0, 0, 255, 0.6)'    // Goal - màu xanh dương 
                 ],
                 borderColor: [
                     'rgba(255, 99, 132, 1)',
