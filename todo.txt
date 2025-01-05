@@ -5,7 +5,7 @@ afternoon:
 
 evening:
 Rửa chén
-[X] Vứt Rác
+Vứt Rác
 Giặt đồ+Phơi đồ
 Quét nhà, Lau nhà
 Gym hoặc Thiền
