@@ -1,6 +1,6 @@
-name: Trúc Cơ Cảnh
-money: 32$
-level: 5.0
-value: 0.8899999999999997
-bar: [2, 5, 0, 0, 2, 2, 0]
-pie: [7, 2, 0, 2]
+name: Tụ Khí Cảnh
+money: 31$
+level: 6.0
+value: 0.09999999999999964
+bar: [5, 0, 0, 2, 2, 0, 7]
+pie: [12, 2, 0, 2]

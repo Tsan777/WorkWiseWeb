@@ -1,4 +1,5 @@
 0.None,0,Lượng giác, ĐSố, giải tích, HìnhH, TKê, Tổ Hợp, XSuất
+0.None,0,mượn đt ba cập nhật sinh trắc học
 Toán,1,2/ Đại số
 Toán,0,3/ Giải tích
 Toán,0,4/ Hình học
@@ -51,6 +52,7 @@ Mua Đồ,0,Ghế đỏ gym
 Mua Đồ,0,Sách MOON Toán Tập 2
 Mua Đồ,0,Thuốc Vitamin B
 Mua Đồ,0,example_task
+Mua Đồ,0,mua cặp
 Mua Đồ,0,Áo Khoác
 Mua Đồ,0,Ấm nước
 Mua Đồ,0,Ốp lưng điện thoại

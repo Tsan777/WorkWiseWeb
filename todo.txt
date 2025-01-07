@@ -1,12 +1,12 @@
 morning:
-Thức trước 5h15
+[X] Thức trước 5h15
 
 afternoon:
 
 evening:
-Rửa chén
-Vứt Rác
-Giặt đồ+Phơi đồ
+[X] Rửa chén
+[X] Vứt Rác
+[X] Giặt đồ+Phơi đồ
 Quét nhà, Lau nhà
 Gym hoặc Thiền
 Tắm Sớm trước 7h
