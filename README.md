@@ -1,6 +1,6 @@
 # 🌐WorkWiseWeb: Quản lý công việc mọi lúc, mọi nơi🌟
 
-link => https://tsan777.github.io/WorksWiseWeb/
+link => https://tsan777.github.io/WorkWiseWeb/
 
 
 ## 📖 Giới thiệu
